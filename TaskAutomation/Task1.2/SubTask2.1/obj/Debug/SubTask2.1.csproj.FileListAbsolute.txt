@@ -1,0 +1,6 @@
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\bin\Debug\SubTask2.1.exe.config
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\bin\Debug\SubTask2.1.exe
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\bin\Debug\SubTask2.1.pdb
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\obj\Debug\SubTask2.1.csprojResolveAssemblyReference.cache
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\obj\Debug\SubTask2.1.exe
+c:\users\karolina_voloshko\documents\visual studio 2017\Projects\SubTask2.1\SubTask2.1\obj\Debug\SubTask2.1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\bin\Debug\DataBaseTask.exe.config
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\bin\Debug\DataBaseTask.exe
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\bin\Debug\DataBaseTask.pdb
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\obj\Debug\DataBaseTask.csprojResolveAssemblyReference.cache
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\obj\Debug\DataBaseTask.exe
+C:\Users\Karolina_Voloshko\Documents\Supplies\DataBaseTask\obj\Debug\DataBaseTask.pdb

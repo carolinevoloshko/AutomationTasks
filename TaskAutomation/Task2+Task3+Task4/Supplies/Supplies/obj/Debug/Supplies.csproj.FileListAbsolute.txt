@@ -1,0 +1,16 @@
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\bin\Debug\Supplies.exe.config
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\obj\Debug\Supplies.csprojResolveAssemblyReference.cache
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\bin\Debug\Supplies.exe
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\bin\Debug\Supplies.pdb
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\obj\Debug\Supplies.exe
+c:\users\karolina_voloshko\documents\visual studio 2015\Projects\Supplies\Supplies\obj\Debug\Supplies.pdb
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Supplies.exe.config
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Supplies.exe
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Supplies.pdb
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Json.dll
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Json.pdb
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\obj\Debug\Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\obj\Debug\Supplies.exe
+C:\Users\Karolina_Voloshko\Documents\Supplies\Supplies\obj\Debug\Supplies.pdb
